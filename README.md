@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A passionate Software developer with expertise in Frameworks{Vite-thirdweb-React-ReactNative-Flutter}, Tech{Nodejs-Graphql_Apollo-Hardhat-DB-APIs} and Languages{JS-Dart-TS}</h3>
+<h3 align="center">A passionate Software developer with expertise in Frameworks { Vite-thirdweb-React-ReactNative-Flutter },
+  Tech { Nodejs-Graphql_Apollo-Hardhat-DB-APIs } and
+  Languages{JS-Dart-TS}</h3>
 
 - 🔭 I’m currently working on **Flutter App**
 
