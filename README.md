@@ -1,21 +1,17 @@
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A passionate Software developer with expertise in Frameworks { Vite-thirdweb-React-ReactNative-Flutter },
+<h1 align="center">Himanshu here,</h1>
+<h3 align="center">Software developer with expertise in Frameworks { Vite-thirdweb-React-ReactNative-Flutter },
   Tech { Nodejs-Graphql_Apollo-Hardhat-DB-APIs } and
   Languages{JS-Dart-TS}</h3>
 
-- 🔭 I’m currently working on **Flutter App**
+- Working on **FRIDAY_SOCIAL**
 
-- 🌱 I’m currently learning **Flutter**
+- I’m looking to collaborate on **Crowdfunding Dapp**
 
-- 👯 I’m looking to collaborate on **Crowdfunding Dapp**
+- All about **Blockchain, APIs, React and Anything**
 
-- 👨‍💻 All of my projects are available at [in process](in process)
+- @ **himanshuforpro@gmail.com**
 
-- 💬 Ask me about **Blockchain, APIs, React and Anything**
-
-- 📫 How to reach me **himanshuforpro@gmail.com**
-
-- 📄 Know about my experiences [https://resume.io/r/Hqef336RK](https://resume.io/r/Hqef336RK)
+- Know about my experiences [https://resume.io/r/Hqef336RK](https://resume.io/r/Hqef336RK)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
